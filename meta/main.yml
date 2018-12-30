@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: mailhog
   author: Nikolay Antsiferov
   description: Install & config MailHog
   company: Cndies

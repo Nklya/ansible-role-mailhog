@@ -1,6 +1,6 @@
 # mailhog ansible role
 
-[![Build Status](https://img.shields.io/travis/cndies/ansible-role-mailhog.svg)](https://travis-ci.com/cndies/ansible-role-mailhog)
+[![Build Status](https://travis-ci.com/cndies/ansible-role-mailhog.svg?branch=master)](https://travis-ci.com/cndies/ansible-role-mailhog)
 [![Galaxy](https://img.shields.io/badge/galaxy-cndies.mailhog-blue.svg)](https://galaxy.ansible.com/cndies/mailhog)
 [![GitHub Tags](https://img.shields.io/github/tag/cndies/ansible-role-mailhog.svg)](https://github.com/cndies/ansible-role-mailhog)
 [![GitHub Stars](https://img.shields.io/github/stars/cndies/ansible-role-mailhog.svg)](https://github.com/cndies/ansible-role-mailhog)
