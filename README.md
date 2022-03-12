@@ -30,7 +30,3 @@ Please look at `defaults/main.yml`, `vars/main.yml`
 ## License
 
 MIT
-
-## Author Information
-
-Nikolay Antsiferov, Cndies
